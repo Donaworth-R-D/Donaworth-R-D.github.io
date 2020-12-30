@@ -1,43 +1,36 @@
-#DarkJoe
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-A Multipurpose One page Responsive Template for agencies or personal site.
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-#Features
+## Demo
 
-- Unique Mordern Design
-- Full Screen Header Background with centered headline
-- Optimized Code & Content
-- Simple Tooltip Menu
-- Showcase your work more with the power of CSS3 animations.
-- Clean Code
-- Cross-browser Compatibility
-- Smooth CSS3 animation
-- SEO Optimized
-- 100% Fully Customizable
-- Sticky Header
-- Google Fonts
-- Built with HTML5 & CSS3
-- Strong focus on Usability and UX
-- Responsive layout
-- CSS Framework - Bootstrap 3
-- FontAwesome Icon Integrated
-- stylish UI
-- Well commented coding
-- Easy to use
-- It's Free!
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-#Screenshot
+The main page would look like this:
 
-#Demo Link
-Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/DarkJoe/)
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-![Screenshot of Flusk]
-(https://github.com/technext/DarkJoe/blob/master/darkjoe.jpg)
+The post page would look like this:
 
-#Demo Link
-Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/DarkJoe/)
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
+## Features
 
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
 
+## Installation:
 
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
 
+## License
+
+GNU General Public License v3.0
+
+## Donate
+
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
+<p align="center"><b>Thank you for your support ❤️</b></p>
